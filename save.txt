@@ -1,0 +1,32 @@
+20 20 3
+Lis 10 19 0 3
+Wilk 4 14 0 9
+Wilk 11 3 0 9
+Czlowiek 8 17 0 9 8
+Owca 5 1 0 4
+Owca 11 1 0 4
+Antylopa 9 7 0 4
+Antylopa 2 1 0 4
+Antylopa 16 13 0 4
+Zolw 5 4 0 2
+Zolw 1 12 0 2
+Zolw 6 18 0 2
+Trawa 17 15 0 0
+Trawa 15 16 0 0
+Trawa 17 3 0 0
+Mlecz 18 1 0 0
+Mlecz 2 11 0 0
+Mlecz 9 12 0 0
+Mlecz 3 11 0 0
+Guarana 8 14 0 0
+Guarana 9 10 0 0
+Guarana 1 5 0 0
+Guarana 18 12 0 0
+WilczeJagody 9 11 0 99
+WilczeJagody 11 9 0 99
+WilczeJagody 7 2 0 99
+BarszczSosnowskiego 0 10 0 10
+BarszczSosnowskiego 14 14 0 10
+BarszczSosnowskiego 1 16 0 10
+BarszczSosnowskiego 15 6 0 10
+Mlecz 8 12 1 0
